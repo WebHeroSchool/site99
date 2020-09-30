@@ -132,7 +132,7 @@
 }
 
 .main__button:hover {
-  opacity: 0.5;
+  opacity: .5;
 }
 
 @media (max-width: 1366px) {
@@ -157,7 +157,7 @@
   .menu {
     display: flex;
     align-items: center;
- }
+  }
 
   .menu__item {
     position: relative;
@@ -277,7 +277,7 @@
 
   .main__subtitle {
     margin: 0 0 25px 40px;
-    padding: 0 35px 0 35px ;
+    padding: 0 35px 0 35px;
     font: 500 24px/27px Roboto, arial, helvetica, sans-serif;
   }
 
