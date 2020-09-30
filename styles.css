@@ -89,7 +89,7 @@
 }
 
 .menu__item:hover {
-  opacity: 0.5;
+  opacity: .5;
 }
 
 .menu__item:hover::after {
@@ -152,7 +152,7 @@
     padding: 40px 0;
     padding-left: 44px;
     font: bold 24px/31px 'PT Serif', serif;
- }
+  }
 
   .menu {
     display: flex;
@@ -165,7 +165,7 @@
     font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
     color: #000;
     text-decoration: none;
-  transition: opacity .5s;
+    transition: opacity .5s;
  }
 
   .main {
@@ -202,8 +202,8 @@
 
   .main {
     padding: 94px 58% 120px 0;
-      background: center right no-repeat url(img/Frame.svg);
-       background-size: 55%;
+    background: center right no-repeat url(img/Frame.svg);
+    background-size: 55%;
   }
 }
 
@@ -213,26 +213,26 @@
   }
 
   .main {
-     padding: 94px 58% 120px 0;
-      background: center right no-repeat url(img/Frame.svg);
-       background-size: 55%;
+    padding: 94px 58% 120px 0;
+    background: center right no-repeat url(img/Frame.svg);
+    background-size: 55%;
   }
 }
 
 @media (max-width: 940px) {
   .wrapper {
-     width: 95%;
+    width: 95%;
   }
 
   .main {
-     padding: 94px 55% 120px 0;
-      background: center right no-repeat url(img/Frame.svg);
-       background-size: 53%;
+    padding: 94px 55% 120px 0;
+    background: center right no-repeat url(img/Frame.svg);
+    background-size: 53%;
   }
 }
 
 @media (max-width: 768px) {
- .wrapper {
+  .wrapper {
     width: 86%;
   }
 
@@ -240,7 +240,7 @@
     display: none;
   }
 
- .logo {
+  .logo {
     visibility: hidden;
     padding: 53px 0 0 0;
   }
@@ -253,36 +253,36 @@
     visibility: visible;
   }
 
- .burger {
+  .burger {
     visibility: visible;
   }
 
   .header {
-     margin-bottom: 0;
+    margin-bottom: 0;
   }
 
   .main {
-     text-align: center;
-      padding: 68% 44px  0;
+    text-align: center;
+    padding: 68% 44px  0;
     margin-left: 40px;
-        background-size: 85%;
-         background-position: top center;
+    background-size: 85%;
+    background-position: top center;
   }
 
   .main__title {
-     padding-top: 30px;
-      margin: 0 0 32px 40px;
-       font: bold 38px/47px 'PT Serif', serif;
+    padding-top: 30px;
+    margin: 0 0 32px 40px;
+    font: bold 38px/47px 'PT Serif', serif;
   }
 
   .main__subtitle {
-     margin: 0 0 25px 40px;
-      padding: 0 35px 0 35px ;
-       font: 500 24px/27px Roboto, arial, helvetica, sans-serif;
+    margin: 0 0 25px 40px;
+    padding: 0 35px 0 35px ;
+    font: 500 24px/27px Roboto, arial, helvetica, sans-serif;
   }
 
   .main__button {
-     margin-top: 40px;
-      font: 500 22px/24px Roboto, arial, helvetica, sans-serif;
+    margin-top: 40px;
+    font: 500 22px/24px Roboto, arial, helvetica, sans-serif;
   }
 }
