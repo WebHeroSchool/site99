@@ -191,6 +191,7 @@
   .main__button {
      font: 14px/16px Roboto, arial, helvetica, sans-serif;
       padding: 14px 16px;
+ }
 }
 
 @media (max-width: 1170px) {
@@ -228,6 +229,7 @@
        background-size: 53%;
   }
 }
+
 @media (max-width: 768px) {
  .wrapper {
     width: 86%;
