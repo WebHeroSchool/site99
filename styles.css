@@ -172,33 +172,33 @@
     padding: 93px 58% 120px 0;
     background: center right no-repeat url(img/Frame.svg);
     background-size: 55%;
- }
+  }
 
   .main__title {
     margin: 0 0 40px 0;
     width: 434px;
     height: 195;
     font: bold 50px/66px 'PT Serif', serif;
- }
+  }
 
   .main__subtitle {
     margin: 0 0 41px 0;
     width: 367px;
     height: 43px;
     font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
- }
+  }
 
   .main__button {
     font: 14px/16px Roboto, arial, helvetica, sans-serif;
     padding: 14px 16px;
- }
+  }
 }
 
 @media (max-width: 1170px) {
   .wrapper {
     width: 81%;
     margin: 0 47px 0 39px;
- }
+  }
 
   .main {
     padding: 94px 58% 120px 0;
