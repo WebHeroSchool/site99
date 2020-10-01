@@ -140,6 +140,7 @@
     margin: auto;
     width: 80%;
   }
+
   .main {
     padding: 195px 66% 245px 0;
     background: center right no-repeat url(img/Frame.svg);
@@ -268,6 +269,7 @@
   .header {
     margin-bottom: 28px;
   }
+  
   .menu {
     display: none;
   }
