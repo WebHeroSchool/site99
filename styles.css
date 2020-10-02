@@ -182,10 +182,8 @@
   .main__subtitle {
     max-height: 43px;
   }
-
-  .main__button {
 }
-
+  
 @media (max-width: 1170px) {
   .wrapper {
     width: 81%;
