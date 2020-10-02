@@ -162,8 +162,8 @@
 
 @media (max-width: 1366px) {
   .wrapper {
-    width: 69%
-    }
+    width: 69%;
+  }
 
   .menu__item {
     margin-right: 27px;
@@ -183,7 +183,7 @@
     max-height: 43px;
   }
 }
-  
+
 @media (max-width: 1170px) {
   .wrapper {
     width: 81%;
@@ -273,9 +273,11 @@
   .wrapper {
     width: 86%;
   }
+
   .header {
     margin-bottom: 0;
   }
+  
   .main__title {
     max-width: 267px;
     font: bold 30px/39px 'PT Serif', serif;
