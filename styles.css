@@ -277,7 +277,7 @@
   .header {
     margin-bottom: 0;
   }
-  
+
   .main__title {
     max-width: 267px;
     font: bold 30px/39px 'PT Serif', serif;
@@ -319,6 +319,7 @@
   .header {
     margin-bottom: 8px;
   }
+
   .main__title {
     padding-top: 32px;
     margin: 0 auto 35px auto;
